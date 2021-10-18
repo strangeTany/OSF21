@@ -1,0 +1,6 @@
+The more we refer to the referred earlier page, the bigger hit becomes.
+
+To decrease it, we can refer to the previously removed from frames pages.
+
+To maximize hits we refer to  a page every n ticks where n stands for number of frames
+To minimize it, refer every 2n ticks
