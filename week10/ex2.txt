@@ -1,0 +1,2 @@
+4216958 /Users/strangetany/week01/file.txt
+/Users/strangetany/week10/_ex2.txt

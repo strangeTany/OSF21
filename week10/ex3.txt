@@ -1,0 +1,5 @@
+-rw-r--r--  1 strangetany  staff  22 Oct 26 22:22 _ex3.txt
+-rwxr--rwx  1 strangetany  staff  22 Oct 26 22:22 _ex3.txt
+-rwxrwxrwx  1 strangetany  staff  22 Oct 26 22:22 _ex3.txt
+User and group can read and write
+User and group have all permissions, others can read and executeEveryone has all permissions
