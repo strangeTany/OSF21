@@ -1,0 +1,7 @@
+What kind of strategy we use depends on conditions for which we could use following steps:
+
+1) Check if it's possible to decide on whether it is safe to grant a resource, if it is, use avoidance.
+2) Check for ways to preempt resources, if we can, than our choice is recovery through preemtion.
+3) Try to set checkpoints of any kind, that would allow to use recovery through rollback.
+4) Check if it is safe to kill a process, if so, use recovery through killing process.
+5) And the last resort one wouldn't like to use unless nothing else is possible, would be prevention strategy.
